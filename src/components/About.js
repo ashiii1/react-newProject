@@ -3,10 +3,10 @@ const About = () => {
     return (
         <div>
             <h1>
-                Hi, This is Najim,
+                Hi, This is Ashi,
             </h1>
             <h3>
-                Engineering@Zyod | Java | NodeJS | ReactJS | Typescript | Ex - Amazon, Samsung | Alumni NIT Hamirpur
+                FrontEnd Developer | Devops Engineer
             </h3>
         </div>
     )
